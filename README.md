@@ -2,7 +2,7 @@
 Este projeto, tem como objetivo compartilhar entretenimento com todos os portugueses, tanto em portugal como no brasil. Temos algumas metas a atingir, mas com a ajuda de toda a gente, não será dificil.
 
 Tarefas:
-- Criar o logotipo
+- Criar o logotipo (Feito)
 - Fazer o menu do website
 - Criar sistema de login e registo
 - Limitar o registo a convites
