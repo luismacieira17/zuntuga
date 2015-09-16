@@ -1,5 +1,5 @@
 # Zuntuga
-Este projeto, tem como objetivo compartilhar entretenimento com todos os portuguêses, tanto em portugal como no brasil. Temos algumas metas a atingir, mas com a ajuda de toda a gente, não será dificil.
+Este projeto, tem como objetivo compartilhar entretenimento com todos os portugueses, tanto em portugal como no brasil. Temos algumas metas a atingir, mas com a ajuda de toda a gente, não será dificil.
 
 Tarefas:
 - Criar o logotipo
